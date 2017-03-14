@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					81F506911E77C27000DB2841 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = BVZZ9S8989;
 						ProvisioningStyle = Automatic;
 					};
 					81F506AA1E77C27000DB2841 = {
@@ -426,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BVZZ9S8989;
 				INFOPLIST_FILE = "自定义UIScrollview滚动条/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "WOSHIPM.---UIScrollview---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -437,7 +440,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BVZZ9S8989;
 				INFOPLIST_FILE = "自定义UIScrollview滚动条/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "WOSHIPM.---UIScrollview---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -509,6 +514,7 @@
 				81F506C11E77C27000DB2841 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		81F506C21E77C27000DB2841 /* Build configuration list for PBXNativeTarget "自定义UIScrollview滚动条Tests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +523,7 @@
 				81F506C41E77C27000DB2841 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		81F506C51E77C27000DB2841 /* Build configuration list for PBXNativeTarget "自定义UIScrollview滚动条UITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +532,7 @@
 				81F506C71E77C27000DB2841 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
